@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Newsletter Sign Up with Success Message</title>
+    <!-- Favicon Link -->
+    <link
+      rel="shortcut icon"
+      href="images/favicon-32x32.png"
+      type="image/x-icon"
+    />
+    <!-- CSS Styling -->
+    <link rel="stylesheet" href="styles/style.css" />
+    <!-- Scripting Link -->
+    <script defer type="module" src="script/success.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="success-message">
+        <div>
+          <img src="images/icon-success.svg" loading="lazy" />
+          <h2>Thanks for Subscribing!</h2>
+          <p>
+            A confirmation email has been sent to
+            <span id="checkedEmail"></span>. Please open it and click the button
+            inside to confirm your subscription
+          </p>
+          <form action="index.html" id="suceeded">
+            <button type="submit" id="submit-btn">Dismiss Message</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
