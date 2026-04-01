@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/dynalinksolution/Newsletter-sign-up-with-success-message)
+- Live Site URL: [Live View](https://dynalinksolution.github.io/Newsletter-sign-up-with-success-message/index.html?)
 
 ## My process
 
